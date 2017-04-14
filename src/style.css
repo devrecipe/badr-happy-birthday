@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #FFE232;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.red {
+    color: #c0392b;
+}
+
+h1 {
+    margin: 20px;
+}
